@@ -1,0 +1,36 @@
+tgt,Insufficient enforcement,Poaching (illegal fishing),climate change,climate change effects,climate change effects on coastal communities,climate change effects on coral reefs,coral bleaching events,coral reef degradation,coral reef health,fisher cooperation,fisheries management,fisheries regulations,fisheries stakeholder participation,fishermen,fishery management,government and fishers,sargasso influx,species depletion
+Insufficient enforcement of fisheries regulations,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0
+algal blooms,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+availability of reef-dependent species,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0
+awareness of resource conservation,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+bleaching events on coral reefs,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+coastal erosion,0,0,0,1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0
+collaborative management,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+collaborative problem solving,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0
+community action in fisheries,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+concern about climate change,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0
+concern about resource sustainability,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+coral bleaching events,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0
+coral reef degradation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+coral reef health,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0
+deadly hydrogen sulfide release,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+fisher awareness of management decisions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+fisheries conservation,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+fisheries decision-making,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+fisheries enforcement,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+fisheries management,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+fisheries overexploitation,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0
+fisheries regulation legitimacy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+fisheries regulations,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+fisheries research and education,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+fisheries stakeholder participation,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+healthy reef-associated species populations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+illegal fishing,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+influx of Sargasso,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+participation in management processes,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+participatory problem solving,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+perception of concern about climate change,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0
+perception of fairness in decision-making,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+problem solving capacity,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+sargasso influx,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+storm events (hurricanes),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

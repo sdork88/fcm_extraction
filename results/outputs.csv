@@ -1,0 +1,23 @@
+Model,data,F1,method,fcm
+gpt-4.1-nano,USVI Academics,0.1321656051,Basic,USVI Academics
+gpt-4.1-nano,USVI DAP,0.0762381747,Basic,USVI DAP
+gpt-4.1-nano,PR Academics,0.1292134831,Basic,PR Academics
+gpt-4.1-nano,USVI Managers,0.3548387097,Basic,USVI Managers
+gpt-4.1-nano,PR NGOs,0.1012084592,Basic,PR NGOs
+gpt-4.1-nano,USVI Fishers,0.3647540984,Basic,USVI Fishers
+gpt-4.1-nano,USVI Businesses,0.0756302521,Basic,USVI Businesses
+gpt-4.1-nano,PR Businesses,0.0537848606,Basic,PR Businesses
+gpt-4.1-nano,USVI NGOs,0.0863309353,Basic,USVI NGOs
+gpt-4.1-nano,PR Managers,0.1740674956,Basic,PR Managers
+gpt-4.1-nano,PR Fishers,0.2010894235,Basic,PR Fishers
+gpt-4.1-nano,PR Fishers,0.4204589654,"dual agent (first rag, second full)",PR Fishers
+gpt-4.1-nano,USVI Academics,0.3162393162,"dual agent (first rag, second full)",USVI Academics
+gpt-4.1-nano,USVI DAP,0.3434579439,"dual agent (first rag, second full)",USVI DAP
+gpt-4.1-nano,PR Academics,0.2587346553,"dual agent (first rag, second full)",PR Academics
+gpt-4.1-nano,USVI Managers,0.3663911846,"dual agent (first rag, second full)",USVI Managers
+gpt-4.1-nano,PR NGOs,0.1543026706,"dual agent (first rag, second full)",PR NGOs
+gpt-4.1-nano,USVI Fishers,0.2787524366,"dual agent (first rag, second full)",USVI Fishers
+gpt-4.1-nano,USVI Businesses,0.2021276596,"dual agent (first rag, second full)",USVI Businesses
+gpt-4.1-nano,PR Businesses,0.1536964981,"dual agent (first rag, second full)",PR Businesses
+gpt-4.1-nano,USVI NGOs,0.1648106904,"dual agent (first rag, second full)",USVI NGOs
+gpt-4.1-nano,PR Managers,0.1493383743,"dual agent (first rag, second full)",PR Managers

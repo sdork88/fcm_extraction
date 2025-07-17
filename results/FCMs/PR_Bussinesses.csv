@@ -1,0 +1,17 @@
+tgt,challenges in licensing compliance,climate change awareness among fishers,community action on regulations and licensing,community cooperation during disasters,dependency on coral reefs,fisheries management decisions,fisheries management fairness,fishermen's concern about climate change,fishermen's dependency on fisheries for livelihood,government abandonment,government decision-making process,government's concern about fishery,lack of local fishery office in Vieques,"regulations (closed seasons, bans, vedas)"
+community's ability to solve problems,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+community's reliance on fishery resources,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+fishermen's ability to address issues locally,0,0,0,0,0,0,0,0,0,0,0,0,-1,0
+fishermen's ability to fish freely,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+fishermen's acceptance of management decisions,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+fishermen's compliance with fishing practices,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+fishermen's concern about climate change,0,0,0,0,0,0,0,0,0,1,0,-1,0,0
+fishermen's daily fishing activity,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+fishermen's participation in meetings,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+fishermen's perception of fairness,0,0,0,0,0,0,0,0,0,0,-1,0,0,0
+fishermen's relationship with managers,0,0,0,0,0,-1,0,0,0,0,0,0,0,0
+fishermen's worries,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+number of fishermen fishing without a license,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+number of licensed fishermen,-1,0,0,0,0,0,0,0,0,0,0,0,0,0
+perception of environmental changes,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+sales of lobster and conch,0,0,0,0,1,0,0,0,0,0,0,0,0,0

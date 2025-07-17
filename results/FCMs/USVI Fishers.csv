@@ -1,0 +1,23 @@
+tgt,climate change,coral reefs,fisheries management,fisheries protection,fishermen,hurricanes,overfishing,poaching,poaching activities,protection measures,regulations,sea grass / sargassum,sea grass and sargassum blooms,seasonal closures
+Elkhorn coral populations,0,0,0,0,0,-1,0,0,0,0,0,0,0,0
+Elkhorn corals,0,0,0,0,0,-1,0,0,0,0,0,0,0,0
+coral health and diversity,-1,0,0,0,0,-1,0,0,0,0,0,0,0,0
+coral reef health,-1,0,0,0,0,-1,0,0,0,0,0,0,0,0
+coral reefs,0,0,0,0,0,-1,0,0,0,0,0,0,0,0
+environmental conditions,-1,0,0,0,0,0,0,0,0,0,0,0,0,0
+fish migration pattern changes,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+fish populations,-1,0,0,1,0,-1,-1,0,0,0,0,0,0,0
+fish stock abundance,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+fish stock recovery,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+fish stocks,0,0,0,1,0,0,-1,-1,0,0,0,0,0,0
+fisheries,0,0,0,0,-1,0,0,0,0,0,0,0,0,0
+fisheries productivity / fish abundance,0,0,0,0,0,0,0,0,0,0,0,-1,0,0
+fisheries protection,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+fishery productivity and fish abundance,0,0,0,0,0,0,0,0,0,0,0,0,-1,0
+fishery sustainability,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+fishing activities,0,0,0,0,-1,0,0,0,0,0,0,0,0,0
+illegal fishing activities (poaching),0,0,0,0,0,0,0,0,1,0,0,0,0,0
+livelihoods,0,0,0,0,-1,0,0,0,0,0,0,0,0,0
+"protection measures (closures, regulations)",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+sea surface temperature changes,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+white sea urchins,-1,0,0,0,0,0,0,0,0,0,0,0,0,0
