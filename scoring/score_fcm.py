@@ -225,8 +225,8 @@ class ScoreCalculator:
         self.FP = np.sum(~(gen_has_tp | gen_has_pp))
         self.FN = np.sum(~(tp_mask | pp_mask))
 
-        TP=TP*self.tp_scale
-        PP=PP*self.pp_scale
+        TP=self.TP*self.tp_scale
+        PP=self.PP*self.pp_scale
         
         F1 = self.calculate_f1_score(TP, self.FP, self.FN, PP)
         self.scores_df = pd.DataFrame(columns=['Model', 'data', 'F1'])
